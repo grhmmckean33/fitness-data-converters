@@ -22,7 +22,7 @@ Here I have produced a handcycle and rowing machine data converters and results 
 # ROWING MACHINE CONVERTER SCREENSHOT: ![image](https://github.com/user-attachments/assets/133598e0-c743-4e8b-b02f-e413ffdbf655)
 
 # BACKGROUND:
-The scenario is as a disabled fitness enthusiast, my indoor rowing machine and hand bike did not give the distance covered in km or miles they only told you how many rowing strokes or pedal revolutions you had done during your session. This was a way of approximately gauging the distance I had covered. As a bonus I also had my heart rate statistics from my smartwatch, but no way of recording the data separately as to which heart rat level I had reached. With this in mind I set to work creating the Rowing Machine Converter and the Handcycle Converter.
+The scenario is as a disabled fitness enthusiast, my indoor rowing machine and hand bike did not give the distance covered in km or miles they only told you how many rowing strokes or pedal revolutions you had done during your session. This was a way of approximately gauging the distance I had covered. As a bonus I also had my heart rate statistics from my smartwatch, but no way of recording the data separately as to which heart rate level I had reached. With this in mind I set to work creating the Rowing Machine Converter and the Handcycle Converter.
 
 # TECHNOLOGIES USED:
 Python Packages - 
