@@ -38,9 +38,16 @@ Python Packages -
 2. DB Browser for SQLite
 
 # USAGE INSTRUCTIONS:
-Rowing Machine Converter - latest version:
+Rowing Machine Converter - latest version V2:
 1. Download Rowing Machine Data Converter folder and contents.
 2. Run the stroke_v2.py file contained in the Rowing Machine Converter V2 folder.
-3. The program should run and you can fill in the data by comleting the fields and using the data sliders.
-4. When you then hit the 'Submit' button it will then automatically show the conversions on screen as saving the data to the rowing_data6.db
-5. Open DB Browser for SQLite and navigate to the rowing_data6.db file and open it to view the data you have just created.
+3. The program should run and you can fill in the data by completing the fields and using the data sliders.
+4. When you then hit the 'Submit' button it will then automatically show the conversions on screen as saving the data to the rowing_data6.db.
+5. Open 'DB Browser for SQLite' that you will have installed on your PC and navigate to the rowing_data6.db file and open it to view the data you have just created.
+
+Handcycle Data Converter - latest version V2:
+1. Download Handcycle Data Converter folder and contents.
+2. Run the hcycle_v2.py file contained in the Handcycle Converter V2 folder.
+3. The program should run and you can fill in the data by completing the fields and using the data sliders.
+4. When you then hit the 'Submit' button it will then automatically show the conversions on screen as saving the data to the hcycle_data4.db.
+5. Open 'DB Browser for SQLite' that you will have installed on your PC and navigate to the hcycle_data4.db file and open it to view the data you have just created.
