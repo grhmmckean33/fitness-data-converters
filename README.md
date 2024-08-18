@@ -2,7 +2,7 @@
 Tkinter - Handcycling and Rowing Machine Distance Data and Heart Rate Conversions
 
 # Table of Contents
-1. PROJECT DESCRIPTION
+1. PROJECT DESCRIPTIONs
 2. HANDCYCLE CONVERTER SCREENSHOT
 3. ROWING MACHINNE CONVERTER SCREENSHOT
 4. BACKGROUND
